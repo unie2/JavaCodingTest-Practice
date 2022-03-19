@@ -17,3 +17,4 @@ public class Main {
 2. value의 값이 0일 경우 반복문을 종료한다.
 
 */
+
